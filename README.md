@@ -36,5 +36,5 @@ By creating this game from scratch, I'm learning how to handle:
 - CSS3 / Tailwind (optional for styling UI)
 - Git for version control
 
-## 📁 Folder Structure
+
 
